@@ -31,7 +31,7 @@ Reads a job description directly from any webpage and rewrites a resume to match
 ### [Handdaddy](https://handdaddy.com)
 An entertainment platform centered on hand-photo rating — built and launched end to end.
 
-### [Polygamblr](polygamblr.hashim.world)
+### [Polygamblr](https://polygamblr.hashim.world)
 A bot trading Polymarket's "BTC Up or Down" 5-minute market, testing whether there's an exploitable edge in the crowd's own live pricing rather than an independent forecast.
 
 ### [Work Avoidance 101](https://workavoidance.hashim.world)
