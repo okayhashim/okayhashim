@@ -31,8 +31,8 @@ Reads a job description directly from any webpage and rewrites a resume to match
 ### [Handdaddy](https://handdaddy.com)
 An entertainment platform centered on hand-photo rating — built and launched end to end.
 
-### Marifmax
-A personal dashboard aggregating bank and health data into a single unified view.
+### [Polygamblr](polygamblr.hashim.world)
+A bot trading Polymarket's "BTC Up or Down" 5-minute market, testing whether there's an exploitable edge in the crowd's own live pricing rather than an independent forecast.
 
 ### [Work Avoidance 101](https://workavoidance.hashim.world)
 A browser-based 3D office game.
