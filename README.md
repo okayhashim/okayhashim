@@ -23,7 +23,7 @@ Real-time transit visualizer for Montreal, expanding to additional cities. Inclu
 An anti-doomscrolling PWA: instead of consuming short-form content, users are served writing prompts pulled from trending topics and asked to write ~100 words in response. Built on the thesis that writing is thinking, and thinking is the opposite of passive scrolling. Entries are private, exportable as an Obsidian vault. Built on AWS Amplify/DynamoDB with a hybrid content ingestion pipeline combining OAuth and third-party scraping.
 
 ### [My Portfolio Site](https://hashim.world)
-A 3D, first-person portfolio experience styled after the Nokia 3310, built with Three.js and deployed on AWS Amplify — a novel way to present a job-search portfolio.
+A 3D, first-person portfolio experience styled after the Nokia 3310, built with Three.js and deployed on AWS Amplify.
 
 ### Resume Tailor (Chrome Extension)
 Reads a job description directly from any webpage and rewrites a resume to match it. Built as both a practical tool and a demonstration of shipped, working software for job applications.
